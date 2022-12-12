@@ -1,0 +1,15 @@
+D:\Documents\Downloads\Dz5\5\zd36\bin\Debug\net6.0\zd36.exe
+D:\Documents\Downloads\Dz5\5\zd36\bin\Debug\net6.0\zd36.deps.json
+D:\Documents\Downloads\Dz5\5\zd36\bin\Debug\net6.0\zd36.runtimeconfig.json
+D:\Documents\Downloads\Dz5\5\zd36\bin\Debug\net6.0\zd36.dll
+D:\Documents\Downloads\Dz5\5\zd36\bin\Debug\net6.0\zd36.pdb
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\zd36.csproj.AssemblyReference.cache
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\zd36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\zd36.AssemblyInfoInputs.cache
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\zd36.AssemblyInfo.cs
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\zd36.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\zd36.dll
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\refint\zd36.dll
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\zd36.pdb
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\zd36.genruntimeconfig.cache
+D:\Documents\Downloads\Dz5\5\zd36\obj\Debug\net6.0\ref\zd36.dll
